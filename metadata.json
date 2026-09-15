@@ -1,0 +1,6 @@
+{
+  "name": "better and better - Mellifluous Blog",
+  "description": "Web truyện ngôn tình phong cách illustration huyền ảo, thanh xuân học đường mùa hè của Mellifluous với theme Blogger hoàn chỉnh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
